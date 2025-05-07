@@ -1,0 +1,5 @@
+streamlit
+openpyxl
+fpdf2
+# math y datetime son parte de la librería estándar de Python, no necesitan listarse.
+# os también es estándar.
